@@ -20,13 +20,7 @@ shortTitle: Comment on a PR
 
 You can comment on a pull request's **Conversation** tab to leave general comments, questions, or props. You can also suggest changes that the author of the pull request can apply directly from your comment.
 
-![Pull Request conversation](/assets/images/help/pull_requests/conversation.png)
-
-You can also comment on specific sections of a file on a pull request's **Files changed** tab in the form of individual line comments or as part of a [pull request review](/articles/about-pull-request-reviews). Adding line comments is a great way to discuss questions about implementation or provide feedback to the author.
-
-For more information on adding line comments to a pull request review, see ["Reviewing proposed changes in a pull request."](/articles/reviewing-proposed-changes-in-a-pull-request)
-
-{% note %}
+![Pull Request conversation](
 
 **Note:** If you reply to a pull request via email, your comment will be added on the **Conversation** tab and will not be part of a pull request review.
 
